@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 65.5%;
+}
+section{
+    font-size: 3rem;
+    margin-left: 10rem;
+    margin-top: 3rem;
+
+}
+
+.new{
+    color: blue;
+    font-weight: bold;
+}
+ul{
+    margin-left: 8rem;
+}
+
+h1,h2,h3,ul,p{
+    padding: 1rem;
+}
+/*h1,h2,h3{*/
+/* font-weight: bold;*/
+/*}*/
